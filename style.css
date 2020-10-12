@@ -1417,5 +1417,14 @@ a,
     text-transform: uppercase;
 }
 
+@media (prefers-color-scheme: dark) {
+    .body.dark-scheme {
+        height: 100%;
+  
+  
+    background: black;
+    color: white;
+  } 
+
 
 
